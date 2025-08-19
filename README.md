@@ -1,7 +1,7 @@
 ## Hi there, I'm Srinikhil 👋
 
 # 💫 About Me:
-🔭 I'm currently working on:<br>AI-powered medical devices at Anchor Logics (gait analysis & fall prevention)<br><br>👯 I'm looking to collaborate on:<br>Healthcare AI/ML projects<br>Fintech trading algorithms<br>Physics-informed neural networks<br>Medical device innovation<br><br>🤝 I'm looking for help with:<br>Open source contributions in healthcare AI<br>Advanced quantitative finance strategies<br><br>🌱 I'm currently learning:<br>Advanced hedge fund strategies<br>Physics-informed ML applications<br>Regulatory pathways for medical devices<br><br>💬 Ask me about:<br>Machine Learning in Healthcare<br>Algorithmic Trading & Quantitative Finance<br>Medical Device Development<br>Startup CTOing & Product Strategy<br><br>⚡ Fun fact:<br><br>I have a FIFA Diploma in Football Medicine and published research with Oxford University Press!
+🔭 I'm currently working on:<br>AI-powered medical devices at Anchor Logics (gait analysis & fall prevention)<br><br>👯 I'm looking to collaborate on:<br>Healthcare AI/ML projects<br>Fintech trading algorithms<br>Physics-informed neural networks<br>Medical device innovation<br><br>🤝 I'm looking for help with:<br>Open source contributions in healthcare AI<br>Advanced quantitative finance strategies<br><br>🌱 I'm currently learning:<br>Advanced hedge fund strategies<br>Physics-informed ML applications<br>Regulatory pathways for medical devices<br><br>💬 Ask me about:<br>Machine Learning in Healthcare<br>Algorithmic Trading & Quantitative Finance<br>Medical Device Development<br>Startup CTOing & Product Strategy<br><br>⚡ Fun fact:<br>I have a FIFA Diploma in Football Medicine and published research with Oxford University Press!
 
 
 ## 🌐 Socials:
